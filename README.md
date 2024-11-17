@@ -12,6 +12,8 @@ The Global Electronics Data Analysis project focuses on:
 - **Store Performance**: Evaluating regional and store-level performance
 - **Recommendations**: Providing insights for inventory, marketing, and strategy optimization
 
+-  ![Screenshot (36)](https://github.com/user-attachments/assets/b03c67ef-0ce6-4cb0-87c4-3e9d747ae204)
+
 ## Table of Contents 📑
 - [Project Overview](#project-overview-🚀)
 - [Data Processing](#data-processing-🛠️)
@@ -51,12 +53,34 @@ EDA provided insights into trends and patterns with visualizations such as:
    GROUP BY CustomerKey;
 
 - **Power BI Dashboard 📊**:📊
+- **Dashboard Features**:
+- KPI Cards: Display total sales, total orders, and profit margin.
+
+- Interactive Map: Highlights regional distribution of sales.
+
+- Pie Charts: Compare sales by product category or customer segment.
+
+- Line Charts: Monthly trends in revenue and orders.
+
 A Power BI dashboard was created to present key insights, with visuals like bar charts, line graphs, and pie charts to illustrate:
 
-Customer behavior and product performance
-Regional sales trends
-Store performance metrics
+- **Insights and Recommendations 💡**:
+Key Insights:
+Top-Selling Products: Focus inventory on high-demand items.
 
-Insights and Recommendations 💡
-Key recommendations include:
+Customer Segmentation: Target marketing campaigns by demographics.
+
+Seasonality: Prepare for peak seasons with adequate stock and promotions.
+
+Regional Trends: Allocate inventory efficiently based on region-wise demand.
+
+-**Strategic Recommendations**:
+- Personalized Marketing: Leverage customer loyalty programs.
+- Inventory Optimization: Stock products based on demand forecasts.
+- Dynamic Pricing: Use discounts to drive sales for low-performing products.
+- Product Bundling: Increase basket size with bundled offers.
+
+```Installation:
+pip install python powerBI pandas numpy matplotlib seaborn sqlalchemy 
+
 
