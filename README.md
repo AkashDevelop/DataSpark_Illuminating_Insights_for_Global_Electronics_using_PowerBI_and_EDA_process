@@ -65,22 +65,22 @@ EDA provided insights into trends and patterns with visualizations such as:
 A Power BI dashboard was created to present key insights, with visuals like bar charts, line graphs, and pie charts to illustrate:
 
 - **Insights and Recommendations 💡**:
-Key Insights:
-Top-Selling Products: Focus inventory on high-demand items.
+  ![Screenshot (37)](https://github.com/user-attachments/assets/b4856a32-96d4-4a00-9136-26c287a5344c)
 
-Customer Segmentation: Target marketing campaigns by demographics.
-
-Seasonality: Prepare for peak seasons with adequate stock and promotions.
-
-Regional Trends: Allocate inventory efficiently based on region-wise demand.
 
 -**Strategic Recommendations**:
 - Personalized Marketing: Leverage customer loyalty programs.
+  
 - Inventory Optimization: Stock products based on demand forecasts.
+  
 - Dynamic Pricing: Use discounts to drive sales for low-performing products.
+  
 - Product Bundling: Increase basket size with bundled offers.
 
-```Installation:
+-**Installation**
+
+
+```
 pip install python powerBI pandas numpy matplotlib seaborn sqlalchemy 
 
 
